@@ -18,11 +18,11 @@ Here are some of my featured projects:
 ### Shipment Dashboard   
 **Description:** Created a shipment dashboard for a company where they can track shipments live. Reactjs & websocket for live data  
 **Tech Used:** React, Node.js, PostgreSQL  
-**Live Demo:** [[Project Link]]([url](https://shipment-dashboard-8tlknnxk3-atete-norettes-projects.vercel.app/))   
+**Live Demo:** (https://shipment-dashboard-8tlknnxk3-atete-norettes-projects.vercel.app/)
 **status:** Under construction
 
 ### KuriCash  
 **Description:** as an impulsive spender myself, i created an app where i can track my spending habits for better budgeting   
 **Tech Used:** JavaScript, HTML, CSS  
-**Live Demo:** [[Project Link]]([url](https://kuri-cashi.vercel.app/))
+**Live Demo:** (https://kuri-cashi.vercel.app/)
 **status:** Under construction 
